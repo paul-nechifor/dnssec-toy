@@ -1,0 +1,6 @@
+ro.              NS  IN 86400  ns1.ro. 2002
+ro.              NS  IN 86400  ns2.ro. 2003
+net.             NS  IN 86400  ns1.net. 2004
+ns1.net.         A   IN 86400  127.0.0.1
+ns1.ro.          A   IN 86400  127.0.0.1
+ns2.ro.          A   IN 86400  127.0.0.1

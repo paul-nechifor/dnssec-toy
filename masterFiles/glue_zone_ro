@@ -1,0 +1,4 @@
+pers.ro.         NS  IN 86400  ns1.pers.ro. 3001
+com.ro.          NS  IN 86400  ns1.com.ro. 3002
+ns1.pers.ro.     A   IN 86400  127.0.0.1
+ns1.com.ro.      A   IN 86400  127.0.0.1

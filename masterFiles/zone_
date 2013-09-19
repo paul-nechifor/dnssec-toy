@@ -1,0 +1,4 @@
+.                SOA IN 0      ns1. hostmaster.ns1. 10001 1800 300 604800 86400
+.                NS  IN 86400  ns1. 2001
+ns1.             A   IN 86400  127.0.0.1
+ns1.             MX  IN 86400  0 ns1.

@@ -1,0 +1,7 @@
+pers.ro.         SOA IN 0      ro. hostmaster-pers.ns1.ro. 10004 1800 300 604800 86400
+pers.ro.         NS  IN 86400  ns1.pers.ro. 3001
+ns1.pers.ro.     A   IN 86400  127.0.0.1
+paul.pers.ro.    A   IN 86400  100.10.10.10
+andrei.pers.ro.  A   IN 86400  100.20.20.20
+ion.pers.ro.     A   IN 86400  100.30.30.30
+maria.pers.ro.   A   IN 86400  100.40.40.40

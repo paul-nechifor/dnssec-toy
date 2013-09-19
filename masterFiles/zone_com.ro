@@ -1,0 +1,8 @@
+com.ro.          SOA IN 0      ro. hostmaster-pers.ns1.ro. 10005 1800 300 604800 86400
+com.ro.          NS  IN 86400  ns1.com.ro. 3002
+ns1.com.ro.      A   IN 86400  127.0.0.1
+inet.com.ro.     A   IN 86400  110.10.10.10
+lumina.com.ro.   A   IN 86400  110.20.20.20
+a.inet.com.ro.   A   IN 86400  110.30.30.30
+b.inet.com.ro.   A   IN 86400  110.40.40.40
+c.inet.com.ro.   A   IN 86400  110.50.50.50
