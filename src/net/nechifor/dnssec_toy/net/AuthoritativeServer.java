@@ -1,17 +1,17 @@
-package si_t45.net;
+package net.nechifor.dnssec_toy.net;
 
 import java.io.File;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.util.ArrayList;
 import java.util.HashSet;
-import si_t45.data.Message;
-import si_t45.data.RDataMx;
-import si_t45.data.RDataNs;
-import si_t45.data.RDataNsec;
-import si_t45.data.Rr;
-import si_t45.logica.DomainComparator;
-import si_t45.util.Util;
+import net.nechifor.dnssec_toy.data.Message;
+import net.nechifor.dnssec_toy.data.RDataMx;
+import net.nechifor.dnssec_toy.data.RDataNs;
+import net.nechifor.dnssec_toy.data.RDataNsec;
+import net.nechifor.dnssec_toy.data.Rr;
+import net.nechifor.dnssec_toy.logic.DomainComparator;
+import net.nechifor.dnssec_toy.util.Util;
 
 public class AuthoritativeServer
 {

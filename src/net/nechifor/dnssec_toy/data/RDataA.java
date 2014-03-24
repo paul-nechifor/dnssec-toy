@@ -1,4 +1,4 @@
-package si_t45.data;
+package net.nechifor.dnssec_toy.data;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;

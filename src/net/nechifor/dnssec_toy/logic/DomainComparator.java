@@ -1,4 +1,4 @@
-package si_t45.logica;
+package net.nechifor.dnssec_toy.logic;
 
 import java.util.Comparator;
 

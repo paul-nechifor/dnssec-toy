@@ -1,8 +1,8 @@
-package si_t45.data;
+package net.nechifor.dnssec_toy.data;
 
 import java.util.ArrayList;
 import javax.xml.bind.DatatypeConverter;
-import si_t45.util.Util;
+import net.nechifor.dnssec_toy.util.Util;
 
 public class RDataDs extends RData
 {

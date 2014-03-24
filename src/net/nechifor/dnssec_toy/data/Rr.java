@@ -1,11 +1,11 @@
-package si_t45.data;
+package net.nechifor.dnssec_toy.data;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
-import si_t45.util.Util;
+import net.nechifor.dnssec_toy.util.Util;
 
 public class Rr
 {

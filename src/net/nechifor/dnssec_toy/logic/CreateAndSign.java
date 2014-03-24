@@ -1,4 +1,4 @@
-package si_t45.logica;
+package net.nechifor.dnssec_toy.logic;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -12,12 +12,12 @@ import java.util.Comparator;
 import java.util.HashSet;
 import java.util.Scanner;
 import javax.xml.bind.DatatypeConverter;
-import si_t45.data.RDataDnsKey;
-import si_t45.data.RDataDs;
-import si_t45.data.RDataNsec;
-import si_t45.data.RDataRrSig;
-import si_t45.data.Rr;
-import si_t45.util.Util;
+import net.nechifor.dnssec_toy.data.RDataDnsKey;
+import net.nechifor.dnssec_toy.data.RDataDs;
+import net.nechifor.dnssec_toy.data.RDataNsec;
+import net.nechifor.dnssec_toy.data.RDataRrSig;
+import net.nechifor.dnssec_toy.data.Rr;
+import net.nechifor.dnssec_toy.util.Util;
 
 public class CreateAndSign
 {

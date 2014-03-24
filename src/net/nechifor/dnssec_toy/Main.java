@@ -1,10 +1,10 @@
-package si_t45;
+package net.nechifor.dnssec_toy;
 
 import java.io.File;
-import si_t45.net.AuthoritativeServer;
-import si_t45.logica.CreateAndSign;
-import si_t45.logica.MasterFileKeyPairGenerator;
-import si_t45.net.Resolver;
+import net.nechifor.dnssec_toy.net.AuthoritativeServer;
+import net.nechifor.dnssec_toy.logic.CreateAndSign;
+import net.nechifor.dnssec_toy.logic.MasterFileKeyPairGenerator;
+import net.nechifor.dnssec_toy.net.Resolver;
 
 public class Main
 {

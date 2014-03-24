@@ -1,4 +1,4 @@
-package si_t45.util;
+package net.nechifor.dnssec_toy.util;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package si_t45.net;
+package net.nechifor.dnssec_toy.net;
 
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
@@ -7,19 +7,19 @@ import java.security.interfaces.RSAPublicKey;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
-import si_t45.data.Message;
-import si_t45.data.MessageQuestion;
-import si_t45.data.RDataA;
-import si_t45.data.RDataDnsKey;
-import si_t45.data.RDataDs;
-import si_t45.data.RDataNs;
-import si_t45.data.RDataNsec;
-import si_t45.data.RDataRrSig;
-import si_t45.data.Rr;
-import si_t45.logica.DomainComparator;
-import si_t45.logica.RSA;
-import si_t45.logica.SHA1;
-import si_t45.util.Util;
+import net.nechifor.dnssec_toy.data.Message;
+import net.nechifor.dnssec_toy.data.MessageQuestion;
+import net.nechifor.dnssec_toy.data.RDataA;
+import net.nechifor.dnssec_toy.data.RDataDnsKey;
+import net.nechifor.dnssec_toy.data.RDataDs;
+import net.nechifor.dnssec_toy.data.RDataNs;
+import net.nechifor.dnssec_toy.data.RDataNsec;
+import net.nechifor.dnssec_toy.data.RDataRrSig;
+import net.nechifor.dnssec_toy.data.Rr;
+import net.nechifor.dnssec_toy.logic.DomainComparator;
+import net.nechifor.dnssec_toy.logic.RSA;
+import net.nechifor.dnssec_toy.logic.SHA1;
+import net.nechifor.dnssec_toy.util.Util;
 
 public class Resolver
 {
