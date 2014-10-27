@@ -30,9 +30,13 @@ Look at the example tree:
 
     cat tree
 
-Start the authoritative servers (you need `tmux`):
+You have to start multiple authoritative servers and a resolver. You can install
+`tmux` and use the configuration file to start everyting:
 
-    tmux -f authoritative.conf attach
+    tmux -f tmux.conf attach
+
+Type a query in the resolver. For example to get the IP address for
+`paul.pers.ro` type `paul.pers.ro. A`.
 
 ## License
 
