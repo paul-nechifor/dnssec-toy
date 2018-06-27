@@ -1,3 +1,7 @@
+# This repository has been moved to [gitlab.com/paul-nechifor/dnssec-toy](http://gitlab.com/paul-nechifor/dnssec-toy).
+
+Old readme:
+
 # DNSSEC Toy
 
 A DNSSEC server and resolver implementation.
